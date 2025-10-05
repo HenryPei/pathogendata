@@ -1,0 +1,594 @@
+Organism group,Create date,Location
+Listeria monocytogenes,2016-01-21T16:24:13Z,GA
+Listeria monocytogenes,2017-04-03T23:01:50Z,MI
+Listeria monocytogenes,2018-04-07T06:38:31Z,GA
+Listeria monocytogenes,2018-04-07T07:39:56Z,GA
+Listeria monocytogenes,2019-06-28T16:32:15Z,NY
+Listeria monocytogenes,2019-07-11T15:32:45Z,NY
+Listeria monocytogenes,2019-07-11T15:32:45Z,NY
+Listeria monocytogenes,2019-07-12T15:31:40Z,NY
+Listeria monocytogenes,2019-07-12T16:34:16Z,NY
+Listeria monocytogenes,2019-07-16T15:32:09Z,NY
+Listeria monocytogenes,2020-07-07T17:16:57Z,NY
+Listeria monocytogenes,2020-07-21T00:15:20Z,NY
+Listeria monocytogenes,2020-09-23T14:21:51Z,NY
+Listeria monocytogenes,2020-10-06T17:26:05Z,NY
+Listeria monocytogenes,2020-11-25T18:27:48Z,NY
+Listeria monocytogenes,2020-11-25T18:27:48Z,NY
+Listeria monocytogenes,2021-08-17T15:25:54Z,MI
+Listeria monocytogenes,2021-08-17T15:25:55Z,MI
+Listeria monocytogenes,2021-08-27T21:26:38Z,MI
+Listeria monocytogenes,2021-10-04T02:25:34Z,MI
+Listeria monocytogenes,2021-10-04T02:25:43Z,MI
+Listeria monocytogenes,2021-10-04T02:25:48Z,MI
+Listeria monocytogenes,2021-10-04T05:25:54Z,WA
+Listeria monocytogenes,2021-10-31T17:29:00Z,WA
+Listeria monocytogenes,2021-10-31T17:29:00Z,WA
+Listeria monocytogenes,2021-10-31T18:30:21Z,WA
+Listeria monocytogenes,2022-03-02T19:34:21Z,ND
+Listeria monocytogenes,2022-03-02T19:34:21Z,WY
+Listeria monocytogenes,2022-03-02T19:34:23Z,ND
+Listeria monocytogenes,2022-03-02T19:34:24Z,ND
+Listeria monocytogenes,2023-05-02T22:41:55Z,VT
+Listeria monocytogenes,2023-06-05T16:55:13Z,GA
+Listeria monocytogenes,2023-07-07T00:54:46Z,WI
+Listeria monocytogenes,2023-07-07T00:54:46Z,WI
+Salmonella enterica,2015-02-10T23:09:41Z,VA
+Salmonella enterica,2015-02-10T21:10:00Z,MN
+Salmonella enterica,2015-02-10T21:10:12Z,WA
+Salmonella enterica,2015-02-10T21:10:14Z,CO
+Salmonella enterica,2015-02-10T21:10:23Z,WA
+Salmonella enterica,2014-08-01T21:04:54Z,WA
+Salmonella enterica,2014-08-08T20:05:53Z,WA
+Salmonella enterica,2014-08-19T19:06:37Z,WA
+Salmonella enterica,2014-09-06T06:05:02Z,WA
+Salmonella enterica,2015-02-10T20:10:48Z,MN
+Salmonella enterica,2016-10-20T19:16:59Z,NY
+Salmonella enterica,2017-05-19T13:40:30Z,WI
+Salmonella enterica,2017-08-25T17:40:51Z,MN
+Salmonella enterica,2018-02-02T23:47:50Z,TX
+Salmonella enterica,2018-03-08T19:52:46Z,NY
+Salmonella enterica,2018-03-08T19:52:47Z,NY
+Salmonella enterica,2018-04-09T22:42:30Z,GA
+Salmonella enterica,2018-05-08T16:46:20Z,ID
+Salmonella enterica,2019-08-01T15:32:14Z,TX
+Salmonella enterica,2018-07-09T16:01:13Z,TX
+Salmonella enterica,2018-07-09T16:01:19Z,TX
+Salmonella enterica,2018-07-09T16:01:20Z,TX
+Salmonella enterica,2018-07-09T16:01:21Z,TX
+Salmonella enterica,2019-08-19T16:31:17Z,TX
+Salmonella enterica,2018-07-24T19:44:38Z,TX
+Salmonella enterica,2018-07-24T19:44:39Z,TX
+Salmonella enterica,2018-07-24T19:44:39Z,TX
+Salmonella enterica,2018-08-03T23:04:53Z,TX
+Salmonella enterica,2018-08-03T23:04:54Z,TX
+Salmonella enterica,2018-08-14T16:43:25Z,TX
+Salmonella enterica,2018-09-07T04:06:37Z,MN
+Salmonella enterica,2019-01-25T15:55:42Z,NJ
+Salmonella enterica,2019-01-29T19:57:56Z,NC
+Salmonella enterica,2019-03-29T20:59:25Z,ND
+Salmonella enterica,2019-08-30T01:50:30Z,IN
+Salmonella enterica,2019-12-10T11:27:56Z,NC
+Salmonella enterica,2019-12-10T11:27:59Z,NC
+Salmonella enterica,2019-12-10T11:28:00Z,NC
+Salmonella enterica,2019-12-10T11:28:03Z,NC
+Salmonella enterica,2019-12-10T11:28:28Z,NC
+Salmonella enterica,2019-12-10T11:28:28Z,NC
+Salmonella enterica,2019-12-10T11:28:29Z,NC
+Salmonella enterica,2019-12-10T11:28:30Z,NC
+Salmonella enterica,2019-12-10T11:28:30Z,NC
+Salmonella enterica,2019-12-10T11:28:35Z,NC
+Salmonella enterica,2019-12-23T02:27:27Z,NC
+Salmonella enterica,2019-12-23T02:27:28Z,NC
+Salmonella enterica,2019-12-23T02:27:33Z,NC
+Salmonella enterica,2019-12-23T02:27:33Z,NC
+Salmonella enterica,2019-12-23T02:27:34Z,NC
+Salmonella enterica,2019-12-23T02:27:46Z,NC
+Salmonella enterica,2019-12-23T02:27:52Z,NC
+Salmonella enterica,2020-02-03T20:12:14Z,NC
+Salmonella enterica,2020-02-26T16:10:05Z,TX
+Salmonella enterica,2020-02-28T14:24:11Z,TX
+Salmonella enterica,2020-04-06T14:16:00Z,TN
+Salmonella enterica,2020-04-06T14:16:10Z,AZ
+Salmonella enterica,2020-04-06T14:16:52Z,AZ
+Salmonella enterica,2020-04-06T14:16:55Z,TN
+Salmonella enterica,2020-04-06T19:14:56Z,IL
+Salmonella enterica,2020-04-06T19:15:25Z,IL
+Salmonella enterica,2020-06-19T18:15:49Z,MA
+Salmonella enterica,2020-07-20T21:15:19Z,FL
+Salmonella enterica,2020-07-31T23:18:02Z,MD
+Salmonella enterica,2020-08-04T03:16:20Z,NJ
+Salmonella enterica,2020-09-02T22:23:21Z,NJ
+Salmonella enterica,2020-09-11T19:19:11Z,VA
+Salmonella enterica,2020-09-15T23:27:21Z,FL
+Salmonella enterica,2020-09-15T23:27:28Z,MD
+Salmonella enterica,2020-09-15T23:27:35Z,NJ
+Salmonella enterica,2020-09-23T22:20:09Z,NJ
+Salmonella enterica,2020-09-25T04:22:07Z,MD
+Salmonella enterica,2020-09-29T02:30:20Z,FL
+Salmonella enterica,2020-09-29T02:30:24Z,NJ
+Salmonella enterica,2020-10-23T18:29:14Z,IL
+Salmonella enterica,2020-11-10T19:24:22Z,PA
+Salmonella enterica,2020-12-15T01:20:44Z,NJ
+Salmonella enterica,2021-02-05T23:25:58Z,TX
+Salmonella enterica,2021-02-19T21:33:09Z,NC
+Salmonella enterica,2021-05-05T00:20:54Z,VA
+Salmonella enterica,2021-06-05T03:30:08Z,NJ
+Salmonella enterica,2021-06-05T03:30:09Z,CT
+Salmonella enterica,2021-06-05T09:36:16Z,NJ
+Salmonella enterica,2021-07-12T23:29:04Z,TX
+Salmonella enterica,2021-07-17T01:33:00Z,VA
+Salmonella enterica,2021-09-03T17:02:59Z,FL
+Salmonella enterica,2021-09-08T09:34:47Z,OK
+Salmonella enterica,2021-09-25T01:35:56Z,NJ
+Salmonella enterica,2021-10-02T21:27:50Z,PA
+Salmonella enterica,2021-10-27T07:33:06Z,VA
+Salmonella enterica,2021-11-04T12:28:39Z,NY
+Salmonella enterica,2021-12-14T21:50:50Z,NJ
+Salmonella enterica,2022-01-10T20:32:39Z,FL
+Salmonella enterica,2022-02-14T23:35:06Z,PA
+Salmonella enterica,2022-03-05T08:33:46Z,IN
+Salmonella enterica,2022-03-05T08:33:51Z,NY
+Salmonella enterica,2022-05-02T19:52:45Z,VA
+Salmonella enterica,2022-05-23T20:46:35Z,VT
+Salmonella enterica,2022-05-27T20:36:03Z,OH
+Salmonella enterica,2022-06-09T03:31:53Z,VA
+Salmonella enterica,2022-07-15T23:45:36Z,FL
+Salmonella enterica,2022-08-10T20:39:40Z,VA
+Salmonella enterica,2022-08-15T19:39:41Z,NC
+Salmonella enterica,2022-08-16T15:34:42Z,NC
+Salmonella enterica,2022-08-16T17:38:00Z,MI
+Salmonella enterica,2022-08-24T23:29:43Z,NC
+Salmonella enterica,2022-09-03T19:30:20Z,IN
+Salmonella enterica,2022-09-21T03:45:23Z,NJ
+Salmonella enterica,2022-09-21T03:45:30Z,NC
+Salmonella enterica,2022-10-13T18:33:47Z,NJ
+Salmonella enterica,2022-10-13T18:33:47Z,FL
+Salmonella enterica,2023-05-10T00:03:32Z,NY
+Salmonella enterica,2023-05-10T00:03:42Z,KY
+Salmonella enterica,2023-07-10T23:46:57Z,AZ
+Salmonella enterica,2023-07-28T22:48:29Z,GA
+Salmonella enterica,2023-09-06T19:56:11Z,KS
+Salmonella enterica,2023-12-21T18:51:51Z,KY
+Salmonella enterica,2024-03-22T01:07:40Z,KS
+Salmonella enterica,2024-11-26T23:17:08Z,TX
+Salmonella enterica,2024-11-26T23:17:09Z,TX
+Salmonella enterica,2024-11-26T23:17:09Z,TX
+Salmonella enterica,2024-11-26T23:17:11Z,TX
+Salmonella enterica,2024-11-27T19:39:31Z,SC
+Salmonella enterica,2024-11-27T19:39:37Z,SC
+Salmonella enterica,2024-12-10T21:43:32Z,TX
+Salmonella enterica,2024-12-10T21:43:35Z,TX
+Salmonella enterica,2024-12-17T17:07:21Z,TX
+Salmonella enterica,2024-12-17T17:07:23Z,TX
+Salmonella enterica,2025-02-06T23:36:00Z,TX
+Salmonella enterica,2025-02-06T23:36:02Z,TX
+Salmonella enterica,2025-06-05T19:54:55Z,OH
+Campylobacter jejuni,2016-11-14T19:12:07Z,CA
+Campylobacter jejuni,2016-11-14T19:12:06Z,CA
+Campylobacter jejuni,2016-11-14T20:18:10Z,CA
+Campylobacter jejuni,2016-11-14T20:18:14Z,CA
+Campylobacter jejuni,2016-11-14T20:18:19Z,CA
+Campylobacter jejuni,2016-11-14T20:18:30Z,CA
+Campylobacter jejuni,2016-11-14T20:18:24Z,CA
+Campylobacter jejuni,2017-06-19T17:40:25Z,TX
+Campylobacter jejuni,2017-09-18T19:12:17Z,WY
+Campylobacter jejuni,2017-10-13T17:37:44Z,WY
+Campylobacter jejuni,2018-03-29T15:43:14Z,WY
+Campylobacter jejuni,2018-10-05T13:41:28Z,NE
+Campylobacter jejuni,2019-07-31T20:32:49Z,WY
+Campylobacter jejuni,2019-07-31T20:32:51Z,WY
+Campylobacter jejuni,2019-07-31T20:32:54Z,WY
+Campylobacter jejuni,2020-04-10T10:15:28Z,MA
+Campylobacter jejuni,2020-04-10T10:15:29Z,NC
+Campylobacter jejuni,2020-04-10T10:15:35Z,MD
+Campylobacter jejuni,2020-04-14T21:13:45Z,PA
+Campylobacter jejuni,2020-04-14T21:13:48Z,NY
+Campylobacter jejuni,2020-04-30T18:13:13Z,PA
+Campylobacter jejuni,2020-04-30T19:15:01Z,NY
+Campylobacter jejuni,2020-07-22T07:17:45Z,WY
+Campylobacter jejuni,2020-08-04T21:17:07Z,PA
+Campylobacter jejuni,2020-08-19T00:18:59Z,NJ
+Campylobacter jejuni,2020-08-25T19:16:30Z,CA
+Campylobacter jejuni,2020-09-11T20:19:20Z,VA
+Campylobacter jejuni,2020-10-06T20:24:04Z,MN
+Campylobacter jejuni,2020-10-08T21:19:57Z,NJ
+Campylobacter jejuni,2020-10-08T21:19:57Z,MD
+Campylobacter jejuni,2020-11-08T07:23:14Z,CA
+Campylobacter jejuni,2021-01-05T00:18:22Z,NJ
+Campylobacter jejuni,2021-02-12T20:22:38Z,IN
+Campylobacter jejuni,2021-02-12T20:22:49Z,PA
+Campylobacter jejuni,2021-02-20T00:28:21Z,PA
+Campylobacter jejuni,2021-02-20T00:28:22Z,NJ
+Campylobacter jejuni,2021-02-20T00:28:23Z,NJ
+Campylobacter jejuni,2021-02-22T21:26:21Z,IL
+Campylobacter jejuni,2021-02-26T16:26:40Z,VA
+Campylobacter jejuni,2021-03-03T03:23:22Z,NJ
+Campylobacter jejuni,2021-03-30T01:20:47Z,MN
+Campylobacter jejuni,2021-04-30T17:27:56Z,CA
+Campylobacter jejuni,2021-05-22T03:30:23Z,IL
+Campylobacter jejuni,2021-06-22T23:26:24Z,MD
+Campylobacter jejuni,2021-09-11T10:32:39Z,TX
+Campylobacter jejuni,2021-09-30T14:34:00Z,TX
+Campylobacter jejuni,2021-10-11T14:37:54Z,TX
+Campylobacter jejuni,2022-04-08T12:38:35Z,MN
+Campylobacter jejuni,2022-04-08T12:38:46Z,PA
+Campylobacter jejuni,2022-04-09T06:34:10Z,IL
+Campylobacter jejuni,2022-04-09T13:39:32Z,MD
+Campylobacter jejuni,2022-04-28T04:40:06Z,NC
+Campylobacter jejuni,2022-04-28T04:40:07Z,NY
+Campylobacter jejuni,2022-04-29T22:56:40Z,PA
+Campylobacter jejuni,2022-05-08T21:36:18Z,NJ
+Campylobacter jejuni,2022-05-17T18:45:06Z,NC
+Campylobacter jejuni,2022-05-21T01:40:25Z,NY
+Campylobacter jejuni,2022-05-25T17:31:55Z,NY
+Campylobacter jejuni,2022-06-01T05:37:56Z,VT
+Campylobacter jejuni,2022-06-07T17:45:59Z,CA
+Campylobacter jejuni,2022-06-07T17:46:04Z,VA
+Campylobacter jejuni,2022-07-05T19:37:19Z,CA
+Campylobacter jejuni,2022-07-13T09:42:59Z,KS
+Campylobacter jejuni,2022-08-09T23:42:04Z,CA
+Campylobacter jejuni,2023-05-24T20:51:09Z,WI
+Campylobacter jejuni,2023-05-24T20:51:09Z,WI
+Campylobacter jejuni,2025-09-03T18:08:32Z,AR
+E.coli and Shigella,2015-09-22T17:12:23Z,MO
+E.coli and Shigella,2016-05-31T01:13:33Z,OR
+E.coli and Shigella,2016-06-07T20:13:50Z,CT
+E.coli and Shigella,2016-06-07T20:13:50Z,CT
+E.coli and Shigella,2017-03-15T03:38:14Z,PA
+E.coli and Shigella,2017-03-18T00:21:27Z,CA
+E.coli and Shigella,2017-03-18T00:21:29Z,CA
+E.coli and Shigella,2017-04-24T17:41:19Z,TN
+E.coli and Shigella,2017-05-01T00:14:29Z,TN
+E.coli and Shigella,2017-05-01T00:14:29Z,TN
+E.coli and Shigella,2017-05-01T02:12:26Z,TN
+E.coli and Shigella,2017-06-07T15:24:05Z,TN
+E.coli and Shigella,2017-06-07T15:24:15Z,TN
+E.coli and Shigella,2017-06-07T15:24:20Z,TN
+E.coli and Shigella,2017-06-07T15:24:46Z,TN
+E.coli and Shigella,2017-07-05T16:47:16Z,CA
+E.coli and Shigella,2017-07-05T16:47:16Z,CA
+E.coli and Shigella,2017-07-05T16:47:17Z,CA
+E.coli and Shigella,2017-07-05T16:47:17Z,CA
+E.coli and Shigella,2017-10-05T22:10:47Z,PA
+E.coli and Shigella,2017-10-06T20:56:07Z,IA
+E.coli and Shigella,2017-10-06T21:00:04Z,FL
+E.coli and Shigella,2017-10-11T17:13:10Z,CA
+E.coli and Shigella,2018-04-30T22:44:35Z,NY
+E.coli and Shigella,2018-07-12T05:57:26Z,TN
+E.coli and Shigella,2018-07-30T21:05:56Z,TN
+E.coli and Shigella,2018-08-01T16:12:20Z,TN
+E.coli and Shigella,2018-08-01T16:12:20Z,TN
+E.coli and Shigella,2018-08-01T16:12:21Z,TN
+E.coli and Shigella,2018-10-24T22:27:59Z,PA
+E.coli and Shigella,2018-09-07T04:06:37Z,MN
+E.coli and Shigella,2018-10-26T04:26:03Z,CA
+E.coli and Shigella,2018-10-26T04:26:03Z,CA
+E.coli and Shigella,2018-10-26T04:26:08Z,TX
+E.coli and Shigella,2019-02-21T18:05:44Z,CA
+E.coli and Shigella,2019-02-27T18:58:38Z,NE
+E.coli and Shigella,2019-04-24T17:55:13Z,NC
+E.coli and Shigella,2019-04-24T17:55:14Z,NC
+E.coli and Shigella,2019-04-24T17:55:15Z,NC
+E.coli and Shigella,2019-12-23T02:27:27Z,CO
+E.coli and Shigella,2020-05-15T23:23:00Z,CA
+E.coli and Shigella,2020-05-22T23:23:19Z,NY
+E.coli and Shigella,2020-05-22T23:23:20Z,CT
+E.coli and Shigella,2020-06-01T23:19:58Z,NY
+E.coli and Shigella,2020-06-02T18:14:07Z,MA
+E.coli and Shigella,2020-06-04T23:14:49Z,RI
+E.coli and Shigella,2020-06-04T23:14:53Z,PA
+E.coli and Shigella,2020-06-11T00:14:26Z,AR
+E.coli and Shigella,2020-06-16T22:14:55Z,IN
+E.coli and Shigella,2020-10-20T00:31:07Z,PA
+E.coli and Shigella,2020-10-20T00:31:08Z,MN
+E.coli and Shigella,2020-10-20T00:31:11Z,MN
+E.coli and Shigella,2020-11-06T21:27:45Z,PA
+E.coli and Shigella,2020-11-06T21:27:50Z,PA
+E.coli and Shigella,2021-02-05T22:25:55Z,NJ
+E.coli and Shigella,2021-02-09T23:22:59Z,NJ
+E.coli and Shigella,2021-02-09T23:23:02Z,NJ
+E.coli and Shigella,2021-02-12T19:24:19Z,PA
+E.coli and Shigella,2021-02-18T15:25:42Z,SD
+E.coli and Shigella,2021-02-18T15:25:57Z,WI
+E.coli and Shigella,2021-03-23T02:28:00Z,NJ
+E.coli and Shigella,2021-05-13T16:28:26Z,IL
+E.coli and Shigella,2021-05-13T16:28:27Z,VT
+E.coli and Shigella,2021-05-15T04:34:05Z,NC
+E.coli and Shigella,2021-05-15T04:34:09Z,IL
+E.coli and Shigella,2021-06-30T14:38:45Z,PA
+E.coli and Shigella,2021-06-30T14:38:45Z,PA
+E.coli and Shigella,2021-06-30T14:38:49Z,PA
+E.coli and Shigella,2021-06-30T14:39:00Z,NY
+E.coli and Shigella,2021-06-30T16:39:34Z,PA
+E.coli and Shigella,2021-06-30T16:39:39Z,PA
+E.coli and Shigella,2021-06-30T16:39:48Z,PA
+E.coli and Shigella,2021-06-30T16:39:50Z,PA
+E.coli and Shigella,2021-08-30T16:33:25Z,NC
+E.coli and Shigella,2021-09-03T23:07:19Z,KY
+E.coli and Shigella,2021-09-03T23:08:03Z,ND
+E.coli and Shigella,2021-10-21T00:28:28Z,PA
+E.coli and Shigella,2021-10-26T18:30:43Z,PA
+E.coli and Shigella,2021-11-21T02:28:39Z,WA
+E.coli and Shigella,2022-03-01T22:36:22Z,NJ
+E.coli and Shigella,2022-01-07T15:33:55Z,WI
+E.coli and Shigella,2022-01-07T15:34:08Z,SD
+E.coli and Shigella,2022-01-25T08:37:57Z,SD
+E.coli and Shigella,2022-01-25T08:38:07Z,IN
+E.coli and Shigella,2022-01-27T02:54:38Z,CO
+E.coli and Shigella,2022-01-30T21:36:30Z,WI
+E.coli and Shigella,2022-01-30T21:36:44Z,CA
+E.coli and Shigella,2022-01-30T21:36:46Z,MO
+E.coli and Shigella,2022-02-01T21:40:31Z,WI
+E.coli and Shigella,2022-02-01T21:40:47Z,KY
+E.coli and Shigella,2022-02-01T21:40:55Z,KY
+E.coli and Shigella,2022-02-05T20:29:33Z,WA
+E.coli and Shigella,2022-02-25T23:30:03Z,NJ
+E.coli and Shigella,2022-02-25T23:30:04Z,NJ
+E.coli and Shigella,2022-03-04T08:40:39Z,PA
+E.coli and Shigella,2022-03-04T08:40:39Z,PA
+E.coli and Shigella,2022-03-04T08:40:40Z,CA
+E.coli and Shigella,2022-03-04T08:40:41Z,PA
+E.coli and Shigella,2022-03-30T14:54:33Z,IN
+E.coli and Shigella,2022-03-30T14:54:35Z,NJ
+E.coli and Shigella,2022-04-09T08:33:03Z,PA
+E.coli and Shigella,2022-04-18T17:51:46Z,NC
+E.coli and Shigella,2022-04-22T16:35:00Z,NY
+E.coli and Shigella,2022-04-27T22:40:33Z,NJ
+E.coli and Shigella,2022-05-05T20:36:31Z,CA
+E.coli and Shigella,2022-05-05T20:36:34Z,NJ
+E.coli and Shigella,2022-05-07T19:34:28Z,VA
+E.coli and Shigella,2022-05-07T19:34:28Z,VA
+E.coli and Shigella,2022-05-07T19:34:28Z,VA
+E.coli and Shigella,2022-05-07T19:34:29Z,VA
+E.coli and Shigella,2022-05-07T19:34:29Z,VA
+E.coli and Shigella,2022-05-10T16:36:57Z,VA
+E.coli and Shigella,2022-05-18T22:44:51Z,MD
+E.coli and Shigella,2022-07-18T20:44:19Z,PA
+E.coli and Shigella,2022-07-16T05:38:50Z,MO
+E.coli and Shigella,2022-07-20T17:43:07Z,TN
+E.coli and Shigella,2022-09-01T10:49:25Z,NC
+E.coli and Shigella,2022-09-05T07:35:11Z,VA
+E.coli and Shigella,2022-09-05T07:35:11Z,VA
+E.coli and Shigella,2022-09-22T09:43:23Z,WA
+E.coli and Shigella,2022-09-27T22:36:01Z,VT
+E.coli and Shigella,2022-09-28T18:36:43Z,VT
+E.coli and Shigella,2022-09-28T22:41:38Z,MD
+E.coli and Shigella,2022-10-06T23:35:00Z,NJ
+E.coli and Shigella,2022-10-06T23:35:00Z,MA
+E.coli and Shigella,2022-10-12T23:37:25Z,PA
+E.coli and Shigella,2023-01-11T17:36:52Z,SD
+E.coli and Shigella,2023-01-11T17:36:58Z,AL
+E.coli and Shigella,2023-01-11T17:36:58Z,AL
+E.coli and Shigella,2023-01-11T17:37:12Z,CA
+E.coli and Shigella,2023-01-11T17:37:12Z,CA
+E.coli and Shigella,2023-01-11T17:37:13Z,GA
+E.coli and Shigella,2023-01-26T16:53:03Z,MN
+E.coli and Shigella,2023-02-25T01:07:27Z,NC
+E.coli and Shigella,2023-04-12T23:47:11Z,VA
+E.coli and Shigella,2023-08-02T22:46:53Z,NC
+E.coli and Shigella,2023-08-03T20:53:34Z,ND
+E.coli and Shigella,2023-08-09T00:46:43Z,PA
+E.coli and Shigella,2023-08-09T00:46:45Z,NE
+E.coli and Shigella,2023-08-22T02:50:49Z,KY
+E.coli and Shigella,2023-08-24T01:17:18Z,WI
+E.coli and Shigella,2023-09-26T22:54:41Z,PA
+E.coli and Shigella,2023-09-26T22:54:42Z,PA
+E.coli and Shigella,2023-09-26T22:54:43Z,IL
+E.coli and Shigella,2023-09-26T23:58:45Z,NC
+E.coli and Shigella,2023-10-31T23:59:18Z,PA
+E.coli and Shigella,2023-10-31T23:59:19Z,PA
+E.coli and Shigella,2024-01-12T00:10:39Z,KY
+E.coli and Shigella,2024-01-18T21:09:54Z,IA
+E.coli and Shigella,2024-01-18T21:09:56Z,NC
+E.coli and Shigella,2024-01-18T21:09:56Z,IA
+E.coli and Shigella,2024-01-18T23:11:09Z,KY
+E.coli and Shigella,2024-01-25T22:03:25Z,KY
+E.coli and Shigella,2024-01-25T22:03:27Z,WI
+E.coli and Shigella,2024-01-30T17:50:55Z,AL
+E.coli and Shigella,2024-03-06T13:53:36Z,IL
+E.coli and Shigella,2024-03-06T13:53:37Z,PA
+E.coli and Shigella,2024-03-06T13:53:40Z,PA
+E.coli and Shigella,2024-03-10T06:53:36Z,NE
+E.coli and Shigella,2024-03-20T06:19:57Z,CO
+E.coli and Shigella,2024-03-22T18:07:03Z,NY
+E.coli and Shigella,2024-10-28T17:49:27Z,CA
+E.coli and Shigella,2024-03-22T22:04:30Z,CA
+E.coli and Shigella,2024-03-22T22:04:43Z,CA
+E.coli and Shigella,2024-04-01T18:03:17Z,PA
+E.coli and Shigella,2024-04-29T21:53:59Z,WI
+E.coli and Shigella,2024-04-30T06:48:50Z,KY
+E.coli and Shigella,2024-10-23T01:11:58Z,WA
+E.coli and Shigella,2024-10-23T01:11:59Z,WA
+E.coli and Shigella,2025-02-06T23:35:48Z,WA
+E.coli and Shigella,2025-02-06T23:35:48Z,WA
+E.coli and Shigella,2025-03-11T07:15:06Z,NY
+E.coli and Shigella,2025-03-11T07:15:11Z,KY
+E.coli and Shigella,2025-04-18T06:08:48Z,NJ
+E.coli and Shigella,2025-07-02T19:38:21Z,NC
+E.coli and Shigella,2025-07-21T18:54:34Z,PA
+E.coli and Shigella,2025-08-27T20:53:19Z,WA
+Klebsiella pneumoniae,2022-03-01T04:31:48Z,KY
+Klebsiella pneumoniae,2022-03-01T04:32:24Z,MN
+Citrobacter freundii,2022-01-04T04:31:15Z,LA
+Staphylococcus pseudintermedius,2019-02-26T15:58:24Z,TX
+Staphylococcus pseudintermedius,2021-05-08T06:27:54Z,IL
+Staphylococcus pseudintermedius,2022-04-14T15:34:27Z,LA
+Staphylococcus pseudintermedius,2023-07-31T22:49:17Z,NC
+Staphylococcus pseudintermedius,2024-01-19T17:52:52Z,MI
+Staphylococcus pseudintermedius,2024-07-02T21:02:09Z,OH
+Cronobacter,2025-02-28T17:18:33Z,MD
+Cronobacter,2025-02-28T17:18:33Z,MD
+Cronobacter,2025-02-28T17:18:37Z,MD
+Cronobacter,2025-02-28T17:18:37Z,MD
+Cronobacter,2025-02-28T17:18:38Z,MD
+Cronobacter,2025-03-07T23:06:37Z,MD
+Photobacterium damselae,2022-08-02T20:37:48Z,NY
+Aeromonas hydrophila,2020-11-06T23:28:15Z,NC
+Aeromonas hydrophila,2020-12-19T00:22:07Z,MS
+Aeromonas hydrophila,2020-12-19T00:22:07Z,MS
+Aeromonas hydrophila,2021-11-04T16:33:22Z,MS
+Aeromonas hydrophila,2022-01-04T04:31:15Z,LA
+Aeromonas hydrophila,2022-08-02T20:37:48Z,NY
+Aeromonas hydrophila,2023-02-24T02:09:00Z,MS
+Aeromonas hydrophila,2024-07-19T21:55:40Z,MS
+Enterococcus faecium,2022-03-31T18:56:42Z,NJ
+Enterococcus faecium,2022-04-16T00:33:42Z,MN
+Enterococcus faecium,2024-03-08T19:56:29Z,NJ
+Enterococcus faecalis,2020-08-15T01:14:36Z,NJ
+Enterococcus faecalis,2021-01-20T22:27:24Z,MD
+Enterococcus faecalis,2021-03-04T00:23:49Z,MN
+Enterococcus faecalis,2022-03-14T22:38:07Z,PA
+Enterococcus faecalis,2022-05-21T00:40:23Z,VA
+Enterococcus faecalis,2022-10-05T21:42:04Z,NC
+Staphylococcus aureus,2023-03-09T14:49:02Z,NH
+Staphylococcus aureus,2023-03-09T14:49:05Z,VT
+Staphylococcus aureus,2023-03-09T14:49:07Z,ME
+Staphylococcus aureus,2023-03-09T14:49:08Z,NH
+Staphylococcus aureus,2023-03-09T14:49:11Z,NH
+Staphylococcus aureus,2023-03-09T14:49:15Z,VT
+Staphylococcus aureus,2023-03-09T14:49:20Z,NH
+Aeromonas veronii,2021-10-22T19:27:37Z,MS
+Aeromonas veronii,2021-10-22T19:27:37Z,MS
+Aeromonas veronii,2022-08-02T20:37:50Z,NM
+Aeromonas salmonicida,2021-10-25T18:30:24Z,WA
+Aeromonas salmonicida,2022-08-02T20:37:49Z,ID
+Aeromonas salmonicida,2022-12-22T19:44:49Z,OH
+Aeromonas salmonicida,2024-04-30T18:01:18Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:16Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:17Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:17Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:19Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:20Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:20Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:20Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:21Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:21Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:21Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:22Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:22Z,WA
+Aeromonas salmonicida,2024-05-17T14:52:23Z,WA
+Flavobacterium psychrophilum,2021-10-26T22:27:49Z,WA
+Flavobacterium psychrophilum,2021-10-26T22:27:49Z,WA
+Flavobacterium psychrophilum,2021-10-26T22:27:49Z,WA
+Flavobacterium psychrophilum,2021-10-26T22:27:52Z,WA
+Flavobacterium psychrophilum,2021-10-26T22:27:55Z,WA
+Flavobacterium psychrophilum,2021-10-26T22:27:55Z,WA
+Flavobacterium psychrophilum,2021-10-26T22:27:56Z,WA
+Flavobacterium psychrophilum,2021-10-26T22:27:56Z,WA
+Flavobacterium psychrophilum,2021-10-26T22:27:57Z,WA
+Flavobacterium psychrophilum,2022-08-02T20:37:46Z,WA
+Flavobacterium psychrophilum,2022-08-02T20:37:48Z,WA
+Flavobacterium psychrophilum,2022-08-02T20:37:51Z,WA
+Flavobacterium psychrophilum,2022-12-22T19:44:48Z,OH
+Flavobacterium psychrophilum,2022-12-22T19:44:48Z,OH
+Flavobacterium psychrophilum,2024-04-30T18:01:10Z,WA
+Flavobacterium psychrophilum,2024-04-30T18:01:11Z,WA
+Flavobacterium psychrophilum,2024-04-30T18:01:14Z,OR
+Flavobacterium psychrophilum,2024-04-30T18:01:17Z,WA
+Flavobacterium psychrophilum,2024-04-30T18:01:17Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:27Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:27Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:28Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:28Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:29Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:29Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:30Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:31Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:31Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:31Z,WA
+Flavobacterium psychrophilum,2024-05-17T14:52:32Z,WA
+Flavobacterium psychrophilum,2024-06-21T14:59:46Z,WA
+Flavobacterium psychrophilum,2025-07-10T20:36:46Z,WA
+Flavobacterium psychrophilum,2025-07-10T20:36:46Z,WA
+Flavobacterium psychrophilum,2025-07-10T20:36:47Z,WA
+Flavobacterium psychrophilum,2025-07-10T20:36:47Z,WA
+Flavobacterium psychrophilum,2025-07-10T20:36:47Z,ID
+Edwardsiella ictaluri,2021-10-28T02:28:06Z,MS
+Edwardsiella ictaluri,2021-10-28T02:28:07Z,MS
+Edwardsiella ictaluri,2021-10-28T02:28:07Z,MS
+Edwardsiella ictaluri,2023-02-23T22:01:14Z,MS
+Edwardsiella ictaluri,2023-02-23T22:01:14Z,MS
+Edwardsiella ictaluri,2023-02-23T22:01:16Z,MS
+Edwardsiella ictaluri,2023-02-23T22:01:16Z,MS
+Edwardsiella ictaluri,2023-02-23T22:01:16Z,MS
+Edwardsiella ictaluri,2023-02-24T02:09:00Z,MS
+Edwardsiella ictaluri,2024-07-19T21:55:39Z,MS
+Edwardsiella ictaluri,2024-07-19T21:55:39Z,MS
+Edwardsiella ictaluri,2024-07-19T21:55:40Z,MS
+Edwardsiella ictaluri,2024-07-19T21:55:40Z,MS
+Edwardsiella ictaluri,2024-08-14T00:36:35Z,MS
+Edwardsiella ictaluri,2024-08-16T18:42:11Z,MS
+Edwardsiella ictaluri,2024-08-16T18:42:15Z,MS
+Edwardsiella ictaluri,2024-08-17T00:17:01Z,MS
+Edwardsiella ictaluri,2024-08-17T00:17:03Z,MS
+Edwardsiella ictaluri,2024-08-17T00:17:03Z,MS
+Edwardsiella ictaluri,2025-03-21T20:44:22Z,MS
+Edwardsiella ictaluri,2025-03-21T20:44:24Z,MS
+Edwardsiella ictaluri,2025-03-21T20:45:02Z,MS
+Edwardsiella ictaluri,2025-03-21T20:45:03Z,MS
+Edwardsiella ictaluri,2025-03-21T20:45:03Z,MS
+Edwardsiella ictaluri,2025-03-21T20:45:03Z,MS
+Edwardsiella ictaluri,2025-07-02T19:38:53Z,MS
+Edwardsiella ictaluri,2025-07-02T19:38:54Z,MS
+Edwardsiella piscicida,2021-11-02T13:33:14Z,MS
+Edwardsiella piscicida,2021-11-02T13:33:14Z,MS
+Edwardsiella piscicida,2021-11-02T13:33:16Z,MS
+Edwardsiella piscicida,2021-11-02T13:33:16Z,NY
+Edwardsiella piscicida,2024-08-17T00:17:02Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:32Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:32Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:33Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:33Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:33Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:33Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:34Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:34Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:35Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:35Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:35Z,MS
+Edwardsiella piscicida,2025-03-16T19:04:36Z,MS
+Edwardsiella piscicida,2025-03-20T18:12:16Z,MS
+Edwardsiella piscicida,2025-03-20T18:12:17Z,MS
+Edwardsiella piscicida,2025-03-21T20:44:23Z,MS
+Edwardsiella piscicida,2025-03-21T20:44:23Z,MS
+Edwardsiella tarda,2021-11-02T13:33:15Z,MS
+Edwardsiella tarda,2021-11-02T13:33:15Z,MS
+Edwardsiella tarda,2021-11-02T13:33:16Z,NY
+Edwardsiella tarda,2023-02-23T22:01:14Z,MS
+Edwardsiella tarda,2024-04-30T18:01:14Z,NY
+Aeromonas sobria,2021-11-03T19:25:25Z,MS
+Vibrio harveyi,2015-07-22T18:10:30Z,MD
+Streptococcus iniae,2021-11-03T19:25:24Z,FL
+Yersinia ruckeri,2021-11-04T16:33:21Z,ID
+Yersinia ruckeri,2022-08-02T20:37:47Z,WA
+Yersinia ruckeri,2022-08-02T20:37:50Z,ID
+Yersinia ruckeri,2022-12-22T19:44:49Z,OH
+Yersinia ruckeri,2024-04-30T18:01:11Z,ID
+Yersinia ruckeri,2024-04-30T18:01:14Z,WA
+Yersinia ruckeri,2024-04-30T18:01:15Z,WA
+Yersinia ruckeri,2024-05-17T15:48:29Z,WA
+Yersinia ruckeri,2024-05-17T15:48:30Z,WA
+Yersinia ruckeri,2024-05-17T15:48:30Z,WA
+Yersinia ruckeri,2024-05-17T15:48:31Z,WA
+Yersinia ruckeri,2024-05-17T15:48:31Z,WA
+Yersinia ruckeri,2024-05-17T15:48:32Z,WA
+Yersinia ruckeri,2024-05-17T15:48:33Z,WA
+Yersinia ruckeri,2024-05-17T15:48:34Z,WA
+Yersinia ruckeri,2024-05-17T15:48:34Z,WA
+Yersinia ruckeri,2024-05-17T15:48:37Z,WA
+Yersinia ruckeri,2024-05-17T15:48:37Z,WA
+Yersinia ruckeri,2025-07-10T20:36:48Z,ID
+Streptococcus suis,2023-12-11T21:04:17Z,IN
+Streptococcus suis,2023-12-27T22:48:52Z,KY
+Mannheimia haemolytica,2023-01-12T15:44:12Z,PA
+Mannheimia haemolytica,2023-06-29T22:57:42Z,IN
+Streptococcus equi,2023-11-17T01:00:33Z,KY
+Streptococcus equi,2024-02-16T07:11:53Z,KY
+Enterococcus hirae,2020-08-15T01:14:41Z,NJ
+Enterococcus hirae,2020-10-06T21:23:32Z,CO
+Enterococcus hirae,2021-01-20T22:27:24Z,NY
+Enterococcus hirae,2021-04-30T16:27:01Z,VT
+Enterococcus hirae,2021-04-30T16:27:01Z,NJ
+Enterococcus hirae,2021-04-30T16:27:02Z,NJ
+Enterococcus hirae,2021-05-15T04:34:00Z,IL
